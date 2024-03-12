@@ -10,7 +10,7 @@
 # Plugin	... Enter Manually
 ########################################################################################################################
 
-PACKAGE_DIR='JediMakerXtream/main'
+PACKAGE_DIR='EPGImport/main'
 MY_IPK="enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.ipk"
 MY_DEB="enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.deb"
 
